@@ -1,6 +1,6 @@
-# Willkommen auf meinem Profil
+# Hi, ich bin Dennis! :nerd_face:
 
-## Web Development 
+## Web Development Student bei [Neue Fische](https://github.com/neuefische):computer:
 
 Hunger? [Pasta](https://www.eatclub.tv/wp-content/uploads/sites/4/2022/04/pasta-al-pollo-1-e1655385643884.jpg)
 
