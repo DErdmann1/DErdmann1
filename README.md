@@ -22,4 +22,4 @@ Zutaten für 4 Personen
 - Paprikapulver
 - Salz und Pfeffer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=√/)]
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=√/)
