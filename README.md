@@ -22,5 +22,6 @@ Zutaten für 4 Personen
 - Paprikapulver
 - Salz und Pfeffer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dennis-erdmann-90262123a/](https://www.linkedin.com/in/dennis-erdmann-90262123a/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dennis-erdmann-90262123a/)](https://www.linkedin.com/in/dennis-erdmann-90262123a/)
+
 
